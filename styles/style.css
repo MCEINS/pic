@@ -1,0 +1,30 @@
+html {
+  font-size: 10px;
+  //width: 2500px;
+  //height: 5000px;
+  background-color: #fff;//#00539F rgb(248, 245, 245)
+}
+h1 {
+  font-size: 50px;
+  font-family: 'Lobster', cursive;
+  text-align: left;
+}
+p {
+    color: rgb(122, 120, 118);
+    font-size: 20px;
+    text-shadow: 1px 1px 1px black;
+    display: block;
+    margin: 1 auto;
+}
+.imageList1{
+  overflow-x: auto;
+  overflow-y: hidden;
+  height: auto;
+  white-space: nowrap;
+  img {
+    width: auto;
+    height: 100%;
+    padding: 0 20px 20px 20px;
+}
+}
+
